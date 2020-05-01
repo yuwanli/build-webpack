@@ -23,7 +23,7 @@
 
 ### webpack.prod.js
 
-- [ ] 代码压缩
+- [] 代码压缩
 - [ ] 文件指纹
 - [ ] tree-shaking
 - [ ] scope hoisting
