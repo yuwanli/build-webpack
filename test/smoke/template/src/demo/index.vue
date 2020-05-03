@@ -3,17 +3,18 @@
 </template>
 
 <script>
-import {showToast} from '../common/utils'
+import { showToast } from '../../common/utils'
+;
 export default {
-  data () {
+  data() {
     return {
-      msg: 'Hello world! this is demo page'
-    }
+      msg: 'Hello world! this is demo page',
+    };
   },
   created() {
-    showToast('demo created')
-  }
-}
+    showToast('demo created');
+  },
+};
 </script>
 
 <style>

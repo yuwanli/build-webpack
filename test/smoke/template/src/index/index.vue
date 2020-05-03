@@ -8,19 +8,19 @@
 </template>
 
 <script>
-import {showToast} from '../common/utils'
-console.log(showToast)
+import { showToast } from '../../common/utils';
+
 export default {
-  data () {
+  data() {
     return {
-      msg: 'Hello world! this is index page'
-    }
+      msg: 'Hello world! this is index page',
+    };
   },
   created() {
-    showToast('index created')
-      console.log('index created')
-  }
-}
+    showToast('index created');
+    console.log('index created');
+  },
+};
 </script>
 
 <style>
