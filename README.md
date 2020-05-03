@@ -33,5 +33,16 @@
 - [x] 体积优化 
 
 
+### commitmsg 
+
+- feature 新增特性
+- fix 问题修复
+- docs 修改文档
+- style 代码缩进、空格等
+- refactor 代码重构
+- perf 优化
+- test 新增测试代码
+- chore 改变构建流程，或者增加修改依赖
+- revert 回滚到之前的版本
 
 https://github.com/geektime-geekbang/geektime-webpack-course
