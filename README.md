@@ -25,12 +25,12 @@
 
 ### webpack.prod.js
 
-- [ ] 代码压缩
-- [ ] 文件指纹
-- [ ] tree-shaking
-- [ ] scope hoisting
-- [ ] 速度优化
-- [ ] 体积优化 
+- [x] 代码压缩
+- [x] 文件指纹
+- [x] tree-shaking
+- [x] scope hoisting
+- [x] 速度优化
+- [x] 体积优化 
 
 
 
