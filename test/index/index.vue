@@ -8,6 +8,8 @@
 </template>
 
 <script>
+import {showToast} from '../common/utils'
+console.log(showToast)
 export default {
   data () {
     return {
@@ -15,6 +17,7 @@ export default {
     }
   },
   created() {
+    showToast('index created')
       console.log('index created')
   }
 }

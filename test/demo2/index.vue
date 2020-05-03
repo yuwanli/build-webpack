@@ -11,7 +11,7 @@ export default {
     }
   },
   created() {
-    showToast('demo created')
+    showToast('demo2 created')
   }
 }
 </script>
